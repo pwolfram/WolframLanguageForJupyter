@@ -1,6 +1,23 @@
-# Setup
+# Wolfram Engine Development Environment Setup
 
-Follow instructions at https://arundquist.wordpress.com/2023/02/23/mathematica-for-free/ to install Wolfram Engine, below details how to connect via pythonic jupyter/jupyter-lab notebook as well as to use the Wolfram "API" within a python script via `python-api_hello_world.py`.
+## Installation 
+To Install Wolfram Engine, follow instructions at 
+
+https://arundquist.wordpress.com/2023/02/23/mathematica-for-free/ 
+
+## Hello World Examples
+
+Engine can be used as kernel for jupyter usage, as detailed in 
+* `ComplexContourIntegral.ipynb`
+* `ComplexPlottingExample.ipynb`
+
+The Wolfram Engine API usage within a script
+is demonstrated in 
+
+* `python-api_hello_world.py`
+
+
+Original Wolfram documentation follows:
 
 # Wolfram Language kernel for Jupyter notebooks
 
