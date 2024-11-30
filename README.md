@@ -1,3 +1,7 @@
+# Setup
+
+Follow instructions at https://arundquist.wordpress.com/2023/02/23/mathematica-for-free/ to install Wolfram Engine, below details how to connect via pythonic jupyter/jupyter-lab notebook as well as to use the Wolfram "API" within a python script via `python-api_hello_world.py`.
+
 # Wolfram Language kernel for Jupyter notebooks
 
 Jupyter provides a protocol (ZMQ) to connect their notebooks to various languages. This project defines a Wolfram Language kernel which can be used in Jupyter notebooks.
